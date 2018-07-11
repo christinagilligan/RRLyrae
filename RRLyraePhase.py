@@ -18,4 +18,5 @@ def calculate_phase(time, period, eph_epoch):
 	
 if __name__ == '__main__':
 #just a test case
-	calculate_phase('2018-01-01', 0.5, 245000)
+    print(calculate_phase('2018-07-07 03:58:57.75', 0.58693
+, 2451873.36))
